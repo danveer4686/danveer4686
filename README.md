@@ -11,18 +11,18 @@ A Data Engineer from Mumbai, India with 7 years of experience. Proficient in cre
 ## ⚡ Tech Stack
 
 <p>
-<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_airflow.svg" alt="SQL" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_apache-kafka.svg" alt="Kafka" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_scala.svg" alt="SQL" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_apache_spark.svg" alt="SQL" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_docker.svg" alt="SQL" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_gcp.svg" alt="SQL" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_apache-kafka.svg" alt="Kafka" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_pg.svg" alt="SQL" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_sql.svg" alt="SQL" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_airflow.svg" alt="SQL" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_docker.svg" alt="SQL" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_gitlab.svg" alt="SQL" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_graphql.svg" alt="SQL" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_pg.svg" alt="SQL" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_python.svg" alt="SQL" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_redis.svg" alt="SQL" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_scala.svg" alt="SQL" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/danveer4686/portfolio/b375f44cab23424211c69321544e201f633d94bb/images/tech_sql.svg" alt="SQL" width="90" height="90"/>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=danveer4686/danveer)
