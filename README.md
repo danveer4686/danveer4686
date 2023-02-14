@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Danveer Sharma! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-<p><em>Data Engineer</em> at <a href="https://www.disneystar.com/about-us">Disney Star</a> || Spark, Scala, Kafka, GCP || 7 years of exp
+<p><em>Data Engineer</em> || Spark, Scala, Kafka, GCP || 7 years of exp
 
 A Data Engineer from Mumbai, India with 7 years of experience. Proficient in creating data lake solutions and data API/services.
 
