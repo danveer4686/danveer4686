@@ -1,8 +1,8 @@
 <h2> Hello there, I'm Danveer Sharma! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-<p><em>Data Engineer</em> || Spark, Scala, Kafka, GCP || 8 years of exp
+<p><em>Data Engineer</em> || Spark, Scala, Kafka, GCP || 10 years of exp
 
-A Data Engineer from Mumbai, India with 8 years of experience. Proficient in creating data lake solutions and data API/services.
+A Data Engineer from Mumbai, India with 10 years of experience. Proficient in creating data lake solutions and data API/services.
 
 [![Linkedin Badge](https://img.shields.io/badge/-danveer-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danveer-sharma-20654884/)
 [![Gmail Badge](https://img.shields.io/badge/-danveer4686@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danveer4686@gmail.com)](mailto:danveer4686@gmail.com)
