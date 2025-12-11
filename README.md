@@ -4,7 +4,7 @@
 
 A Data Engineer from Mumbai, India with 10 years of experience. Proficient in creating data lake solutions and data API/services.
 
-[![Linkedin Badge](https://img.shields.io/badge/-danveer-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danveer-sharma-20654884/)
+[![Linkedin Badge](https://img.shields.io/badge/-danveer-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danveersharma)
 [![Gmail Badge](https://img.shields.io/badge/-danveer4686@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danveer4686@gmail.com)](mailto:danveer4686@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-portfolio_website-green?style=flat-square&link=https://danveer4686.github.io/portfolio/)](https://danveer4686.github.io/portfolio/)
 
